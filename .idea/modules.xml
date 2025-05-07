@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/02.Fundamentals/01.BasicSyntaxConditionalStatementsAndLoopsExercise/01.BasicSyntaxConditionalStatementsAndLoopsExercise.iml" filepath="$PROJECT_DIR$/02.Fundamentals/01.BasicSyntaxConditionalStatementsAndLoopsExercise/01.BasicSyntaxConditionalStatementsAndLoopsExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/01.Basics/01.Basics.iml" filepath="$PROJECT_DIR$/01.Basics/01.Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/01.Basics/01FirstSteps/01FirstSteps.iml" filepath="$PROJECT_DIR$/01.Basics/01FirstSteps/01FirstSteps.iml" />
       <module fileurl="file://$PROJECT_DIR$/01.Basics/01FirstStepsExc/01FirstStepsExc.iml" filepath="$PROJECT_DIR$/01.Basics/01FirstStepsExc/01FirstStepsExc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.Fundamentals/02.Fundamentals.iml" filepath="$PROJECT_DIR$/02.Fundamentals/02.Fundamentals.iml" />
       <module fileurl="file://$PROJECT_DIR$/01.Basics/02Loops/02Loops.iml" filepath="$PROJECT_DIR$/01.Basics/02Loops/02Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/StudyingJava.iml" filepath="$PROJECT_DIR$/.idea/StudyingJava.iml" />
     </modules>
