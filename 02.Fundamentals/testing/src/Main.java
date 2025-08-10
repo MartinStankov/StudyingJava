@@ -15,10 +15,15 @@ public class Main {
 //        System.out.println(cat.equals(cat1));
 //
 //
-        Animal[] animals = { new Cat(5, "Kitty"), new Dog (2, "Akira")};
-        for (var animal: animals) {
-            System.out.println(animal.getBreed());
-        }
-        System.out.println("Hello from Fedora again :)! ");
+//        Animal[] animals = { new Cat(5, "Kitty"), new Dog (2, "Akira")};
+//        for (var animal: animals) {
+//            System.out.println(animal.getBreed());
+//        }
+
+        Person person1 = new Person("Tony", 20, 950.00);
+        System.out.print(person1.getCurrentSalary(150));
+
+        Person person2 = new Person("Ivan", 21, 400);
+
     }
 }
