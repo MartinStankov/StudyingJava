@@ -19,5 +19,6 @@ public class Main {
         for (var animal: animals) {
             System.out.println(animal.getBreed());
         }
+        System.out.println("Hello from Fedora again :)! ");
     }
 }
